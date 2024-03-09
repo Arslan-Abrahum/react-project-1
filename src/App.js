@@ -13,6 +13,9 @@ const App = () => {
 
   return(
     <div className="wrapper">
+      
+      <h1 style={{textAlign: "center"}}> React Project </h1>
+
       <div className="center-wrapper">
         <h1>Who pays the bill ?</h1>
         { context.state.stage === 1 ?
