@@ -14,7 +14,6 @@ const App = () => {
   return(
     <div className="wrapper">
       
-      <h1> My App Which is my react App ... </h1>
 
       <div className="center-wrapper">
         <h1>Who pays the bill ?</h1>
